@@ -1,2 +1,2 @@
 # rsschool-2019Q1-cv
-Markdown &amp; Git
+https://aliakseibabko.github.io/rsschool-2019Q1-cv/cv
