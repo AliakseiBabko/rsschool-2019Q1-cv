@@ -1,0 +1,16 @@
+.bodywrapper {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+img {
+    width: 200px;
+    clip-path: circle(40%);
+    float: right;
+    margin-top: -20px;
+    margin-right: 50px;
+}
+
+ol {
+    margin-left: 15px;
+}
